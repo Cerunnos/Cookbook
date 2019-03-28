@@ -1,0 +1,17 @@
+.title{
+  text-align:center;
+  border-style:solid;
+}
+
+.YourRecipesContainer{
+  /* position:fixed; */
+  background-color:LightGrey;
+  text-align:center;
+  border-radius:25px;
+}
+
+.AddRecipeContainer{
+  background-color:LightGrey;
+  text-align:center;
+  border-radius:25px;
+}
